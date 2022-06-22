@@ -1,0 +1,79 @@
+.input{
+    width: 100%;
+    height: 20%;
+    position: relative;
+  }
+  .time{
+    position: relative;
+  margin:0 0 0 1vw;
+  font-size: 1.2rem;
+  width: 100vw;
+  height: 10vh;
+  padding-left: 3vw;
+text-align: center;
+  }
+  .tempdata{
+    position: absolute;
+    font-size: 1.5rem;
+    margin:00 0 1vw;
+    width: 49vw;
+    height: 40vh;
+  padding: 3vw;
+  }
+  
+ 
+  .Bottomadds{
+   
+    display: flex;
+    width: 90vw;
+    height: 10vh;
+    position: absolute;
+    justify-content: space-between;
+    top: 10vh;
+    margin: 0 0 0 2vw;
+
+    
+  }
+ 
+.center_data{
+  position: absolute;
+  top: 22vh;
+width: 100vw;
+height: 70 ;
+}
+  .flights {
+    display: flex;
+    width: 48vw;
+    height: 40vh;
+    font-size: 15px;
+    position: relative;
+    margin-top: 10vh;
+    margin-left: 50vw;
+
+  }
+  li{
+    list-style-type: none;
+    width: 300px;
+    height: 50px;
+    font-size: large;
+    font-weight: bold;
+  }
+  img{
+width: 100px;
+height: 100px;
+  }
+
+  li:hover{
+    transform: scale(1.5, 1.5);
+  }
+  .clr{
+    margin-left: 90%;
+  }
+  
+  img:hover{
+    transform: scale(1.5, 1.5);
+  }
+
+  /*  */
+
+  /**/
